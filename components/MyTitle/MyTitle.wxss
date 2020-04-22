@@ -1,0 +1,36 @@
+.my_title{
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+    background-color: #fff;
+}
+
+.logo{
+    flex: 8;
+}
+
+.search_icon{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_icon{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download_app{
+    flex: 3;
+    font-size: 30rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3399ff;
+    color: #fff;
+    border-radius: 10rpx;
+    padding: 10rpx;
+}
